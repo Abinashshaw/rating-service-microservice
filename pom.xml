@@ -9,11 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.krsna</groupId>
-<<<<<<< HEAD
-	<artifactId>HotelService</artifactId>
-=======
 	<artifactId>RatingService</artifactId>
->>>>>>> df56da9 (Added Rating microservice and Http Methods to Perform CRUD Operations and interact with other USER and HOTEL microservice)
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
